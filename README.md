@@ -60,3 +60,5 @@ I'm a software developer who enjoys building reliable backend services, scriptin
 ### Contact
 
 If you want to get in touch, the best way is to email me directly at [vivek24bhardwaj@gmail.com](mailto:vivek24bhardwaj@gmail.com).
+
+<!-- status: active -->
